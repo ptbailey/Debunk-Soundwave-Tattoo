@@ -13,6 +13,6 @@
 
 Check out my [Medium blog post](https://towardsdatascience.com/debunking-skin-motion-tattoo-d05a65ed6826) for more information.
 
-Visual aid:
+Visual aid:\n
 ![](https://github.com/ptbailey/debunk-soundwave-tattoo/blob/master/soundwave.gif)
 
