@@ -11,9 +11,9 @@
 7) Find the match — the match is the image with the shortest image signature distance to the tattoo image.
 8) Play audio of that match
 
-Check out my [Medium blog post](https://towardsdatascience.com/debunking-skin-motion-tattoo-d05a65ed6826) for more information.
+**Check out my [Medium blog post](https://towardsdatascience.com/debunking-skin-motion-tattoo-d05a65ed6826) for more information.**
 
-Visual aid:  
+**Visual aid:**  
 
 ![](https://github.com/ptbailey/debunk-soundwave-tattoo/blob/master/soundwave.gif)
 
