@@ -13,5 +13,7 @@
 
 Check out my [Medium blog post](https://towardsdatascience.com/debunking-skin-motion-tattoo-d05a65ed6826) for more information.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](
+        debunk-soundwave-tattoo/soundwave.gif
+      )
 
